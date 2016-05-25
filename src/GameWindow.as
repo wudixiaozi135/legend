@@ -248,7 +248,6 @@ package
 			addEventListener(Event.ENTER_FRAME, enterframeHandle, false, 0, true);
 			stage.addEventListener(Event.RENDER, onRender, false, 0, true);
 			_lastTimeStamp = getTimer();
-			
 		}
 
 		private function initDataManagers():void

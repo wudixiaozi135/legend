@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="2b5ba438-c385-42c7-9485-eeef96b48998" name="Default" comment="commit">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GameWindow.as" afterPath="$PROJECT_DIR$/src/GameWindow.as" />
     </list>
     <ignored path="NewMir.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/src/GameWindow.as">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="250" column="12" selection-start-line="250" selection-start-column="12" selection-end-line="250" selection-end-column="12" />
+              <caret line="250" column="9" selection-start-line="250" selection-start-column="9" selection-end-line="250" selection-end-column="9" />
               <folding>
                 <element signature="e#11#92#0" expanded="true" />
               </folding>
@@ -327,7 +328,7 @@
     <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
     <property name="LayoutCode.rearrangeEntries" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="com.intellij.ide.scratch.NewScratchFileAction" value="AtScript&#10;MySQL&#10;RegExp&#10;ECMA Script Level 4&#10;Decompiled SWF" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
@@ -1425,14 +1426,7 @@
       <workItem from="1464176848424" duration="518000" />
       <workItem from="1464177408037" duration="28000" />
       <workItem from="1464177491907" duration="371000" />
-      <workItem from="1464178159250" duration="318000" />
-    </task>
-    <task id="LOCAL-00781" summary="ui">
-      <created>1427354361737</created>
-      <option name="number" value="00781" />
-      <option name="presentableId" value="LOCAL-00781" />
-      <option name="project" value="LOCAL" />
-      <updated>1427354361738</updated>
+      <workItem from="1464178159250" duration="374000" />
     </task>
     <task id="LOCAL-00782" summary="修改 ，">
       <created>1427354459999</created>
@@ -1770,11 +1764,18 @@
       <option name="project" value="LOCAL" />
       <updated>1464178486728</updated>
     </task>
-    <option name="localTasksCounter" value="830" />
+    <task id="LOCAL-00830" summary="commit">
+      <created>1464178509175</created>
+      <option name="number" value="00830" />
+      <option name="presentableId" value="LOCAL-00830" />
+      <option name="project" value="LOCAL" />
+      <updated>1464178509175</updated>
+    </task>
+    <option name="localTasksCounter" value="831" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2709871000" />
+    <option name="totallyTimeSpent" value="2709927000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2227,7 +2228,7 @@
     <entry file="file://$PROJECT_DIR$/src/GameWindow.as">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="250" column="12" selection-start-line="250" selection-start-column="12" selection-end-line="250" selection-end-column="12" />
+          <caret line="250" column="9" selection-start-line="250" selection-start-column="9" selection-end-line="250" selection-end-column="9" />
           <folding>
             <element signature="e#11#92#0" expanded="true" />
           </folding>
