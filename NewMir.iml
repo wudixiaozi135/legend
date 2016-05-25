@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="GameLoader">
+    <configurations>
+      <configuration name="GameLoader" pure-as="true" main-class="GameLoader" output-file="GameLoader.swf" output-folder="$MODULE_DIR$/bin" use-html-wrapper="true" wrapper-template-path="$MODULE_DIR$/html-template">
+        <dependencies target-player="21.0">
+          <entries>
+            <entry library-id="47c8e750-cdfb-4480-9801-ca4cd3157ade">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="flex_sdk_4.6" />
+        </dependencies>
+        <compiler-options>
+          <map>
+            <entry key="compiler.locale" value="en_US" />
+          </map>
+          <option name="additionalOptions" value="-define DEF::CLIENTLOGIN true" />
+        </compiler-options>
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+      <configuration name="SelectRole" pure-as="true" main-class="SelectRole" output-file="SelectRole.swf" output-folder="$MODULE_DIR$/bin" use-html-wrapper="true" wrapper-template-path="$MODULE_DIR$/html-template" skip-build="true">
+        <dependencies target-player="21.0">
+          <entries>
+            <entry library-id="360b07a7-a701-418c-be6b-4388dbf9ef8e">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="flex_sdk_4.6" />
+        </dependencies>
+        <compiler-options>
+          <map>
+            <entry key="compiler.locale" value="en_US" />
+          </map>
+          <option name="additionalOptions" value="-define DEF::CLIENTLOGIN true" />
+        </compiler-options>
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+      <configuration name="GameWindow" pure-as="true" main-class="GameWindow" output-file="GameWindow.swf" output-folder="$MODULE_DIR$/bin" use-html-wrapper="true" wrapper-template-path="$MODULE_DIR$/html-template">
+        <dependencies target-player="21.0">
+          <entries>
+            <entry library-id="1b6e6d23-f723-4594-b7e6-0b5e1912bc0c">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="flex_sdk_4.6" />
+        </dependencies>
+        <compiler-options>
+          <map>
+            <entry key="compiler.locale" value="en_US" />
+          </map>
+          <option name="additionalOptions" value="-define DEF::CLIENTLOGIN true" />
+        </compiler-options>
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+      <configuration name="CreateRole" pure-as="true" main-class="CreateRole" output-file="CreateRole.swf" output-folder="$MODULE_DIR$/bin" use-html-wrapper="true" wrapper-template-path="$MODULE_DIR$/html-template" skip-build="true">
+        <dependencies target-player="21.0">
+          <entries>
+            <entry library-id="cad90bbc-8711-4a95-9fc1-e3ce10e1f0fa">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="flex_sdk_4.6" />
+        </dependencies>
+        <compiler-options>
+          <map>
+            <entry key="compiler.locale" value="en_US" />
+          </map>
+          <option name="additionalOptions" value="-define DEF::CLIENTLOGIN true" />
+        </compiler-options>
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+      <configuration name="NewMir" pure-as="true" main-class="NewMir" output-file="NewMir.swf" output-folder="$MODULE_DIR$/bin" use-html-wrapper="true" wrapper-template-path="$MODULE_DIR$/html-template">
+        <dependencies target-player="21.0">
+          <entries>
+            <entry library-id="bc7c4a4e-4ac9-4b48-b3b5-f3f610ca65a5">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="flex_sdk_4.6" />
+        </dependencies>
+        <compiler-options>
+          <map>
+            <entry key="compiler.locale" value="en_US" />
+          </map>
+          <option name="additionalOptions" value="-define DEF::CLIENTLOGIN true" />
+        </compiler-options>
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="flex_sdk_4.6" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="47c8e750-cdfb-4480-9801-ca4cd3157ade" />
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="360b07a7-a701-418c-be6b-4388dbf9ef8e" />
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="1b6e6d23-f723-4594-b7e6-0b5e1912bc0c" />
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="cad90bbc-8711-4a95-9fc1-e3ce10e1f0fa" />
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="bc7c4a4e-4ac9-4b48-b3b5-f3f610ca65a5" />
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" name="samples" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://D:/installPath/website/php-5.6.3" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://D:/installPath/website/php-5.6.3" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
