@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NewMir.iml" filepath="$PROJECT_DIR$/NewMir.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../ZTest/ZTest.iml" filepath="$PROJECT_DIR$/../ZTest/ZTest.iml" />
     </modules>
   </component>
 </project>
