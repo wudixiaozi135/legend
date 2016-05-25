@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="2b5ba438-c385-42c7-9485-eeef96b48998" name="Default" comment="commit">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GameWindow.as" afterPath="$PROJECT_DIR$/src/GameWindow.as" />
     </list>
     <ignored path="NewMir.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,10 +71,10 @@
       <file leaf-file-name="GameWindow.as" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GameWindow.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="250" column="9" selection-start-line="250" selection-start-column="9" selection-end-line="250" selection-end-column="9" />
+            <state relative-caret-position="482">
+              <caret line="258" column="36" selection-start-line="258" selection-start-column="36" selection-end-line="258" selection-end-column="36" />
               <folding>
-                <element signature="e#11#92#0" expanded="true" />
+                <marker date="1464178554632" expanded="true" signature="8:14881" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -93,6 +92,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="wudixiaozi135" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -1426,14 +1430,7 @@
       <workItem from="1464176848424" duration="518000" />
       <workItem from="1464177408037" duration="28000" />
       <workItem from="1464177491907" duration="371000" />
-      <workItem from="1464178159250" duration="374000" />
-    </task>
-    <task id="LOCAL-00782" summary="修改 ，">
-      <created>1427354459999</created>
-      <option name="number" value="00782" />
-      <option name="presentableId" value="LOCAL-00782" />
-      <option name="project" value="LOCAL" />
-      <updated>1427354459999</updated>
+      <workItem from="1464178159250" duration="418000" />
     </task>
     <task id="LOCAL-00783" summary="是否绑定 ，">
       <created>1427356716597</created>
@@ -1771,11 +1768,18 @@
       <option name="project" value="LOCAL" />
       <updated>1464178509175</updated>
     </task>
-    <option name="localTasksCounter" value="831" />
+    <task id="LOCAL-00831" summary="commit">
+      <created>1464178567889</created>
+      <option name="number" value="00831" />
+      <option name="presentableId" value="LOCAL-00831" />
+      <option name="project" value="LOCAL" />
+      <updated>1464178567889</updated>
+    </task>
+    <option name="localTasksCounter" value="832" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2709927000" />
+    <option name="totallyTimeSpent" value="2709971000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2227,10 +2231,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GameWindow.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="250" column="9" selection-start-line="250" selection-start-column="9" selection-end-line="250" selection-end-column="9" />
+        <state relative-caret-position="482">
+          <caret line="258" column="36" selection-start-line="258" selection-start-column="36" selection-end-line="258" selection-end-column="36" />
           <folding>
-            <element signature="e#11#92#0" expanded="true" />
+            <marker date="1464178554632" expanded="true" signature="8:14881" ph="{...}" />
           </folding>
         </state>
       </provider>
