@@ -4,8 +4,26 @@
     <bookmark url="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/school/complex/information/SchoolInfoPanel.as" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="2b5ba438-c385-42c7-9485-eeef96b48998" name="Default" comment="commit">
+    <list default="true" id="2b5ba438-c385-42c7-9485-eeef96b48998" name="Default" comment="commit">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/index_108.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/index_109.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/index_163.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/index_167.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/index_87.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/CreateRole.swf" afterPath="$PROJECT_DIR$/bin/CreateRole.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/GameLoader.swf" afterPath="$PROJECT_DIR$/bin/GameLoader.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/GameWindow.swf" afterPath="$PROJECT_DIR$/bin/GameWindow.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/NewMir.swf" afterPath="$PROJECT_DIR$/bin/NewMir.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/SelectRole.swf" afterPath="$PROJECT_DIR$/bin/SelectRole.swf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NewMir.iml" afterPath="$PROJECT_DIR$/NewMir.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/CreateRole.html" afterPath="$PROJECT_DIR$/bin/CreateRole.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/GameWindow.html" afterPath="$PROJECT_DIR$/bin/GameWindow.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/NewMir.html" afterPath="$PROJECT_DIR$/bin/NewMir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/SelectRole.html" afterPath="$PROJECT_DIR$/bin/SelectRole.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/index.html" afterPath="$PROJECT_DIR$/bin/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/model/configData/ConfigDataItem.as" afterPath="$PROJECT_DIR$/src/com/model/configData/ConfigDataItem.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/view/gameWindow/util/Calendar.as" afterPath="$PROJECT_DIR$/src/com/view/gameWindow/util/Calendar.as" />
     </list>
     <ignored path="NewMir.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -68,14 +86,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GameWindow.as" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/GameWindow.as">
+      <file leaf-file-name="PanelWelfare.as" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/welfare/PanelWelfare.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="258" column="36" selection-start-line="258" selection-start-column="36" selection-end-line="258" selection-end-column="36" />
-              <folding>
-                <marker date="1464178554632" expanded="true" signature="8:14881" ph="{...}" />
-              </folding>
+            <state relative-caret-position="496">
+              <caret line="88" column="26" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WelfareViewHandle.as" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/welfare/WelfareViewHandle.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="39" column="78" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="81" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TabSign.as" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/welfare/sign/TabSign.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="28" column="37" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SignViewHandle.as" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/welfare/sign/SignViewHandle.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="209" column="40" selection-start-line="209" selection-start-column="40" selection-end-line="209" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calendar.as" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/util/Calendar.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="487">
+              <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -107,12 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/team/tabHandle/myTeam/TabMyTeamViewHandle.as" />
-        <option value="$PROJECT_DIR$/src/com/model/configData/cfgdata/FirstChargeRewardCfgData.as" />
-        <option value="$PROJECT_DIR$/src/com/model/configData/cfgdata/EveryDayRewardCfgData.as" />
-        <option value="$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/mall/mallbuy/MallBuyMouseHandler.as" />
-        <option value="dbtable:/1ed2f5db/05212e05-203c-48c9-bf75-b96d72907e6c/newmir..V_testView" />
-        <option value="dbprocedure:/1ed2f5db/05212e05-203c-48c9-bf75-b96d72907e6c/mysql..showSystemTable" />
         <option value="$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/trade/TradeDataManager.as" />
         <option value="$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/trade/PanelTrade.as" />
         <option value="dbfunction:/1ed2f5db/05212e05-203c-48c9-bf75-b96d72907e6c/mysql..mytest" />
@@ -157,7 +207,13 @@
         <option value="$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/map/mappic/MapBmpLoader.as" />
         <option value="$PROJECT_DIR$/src/com/model/configData/cfgdata/LoginRewardCfgData.as" />
         <option value="$PROJECT_DIR$/bin/index.html" />
+        <option value="$PROJECT_DIR$/src/com/model/configData/ConfigDataItem.as" />
+        <option value="$PROJECT_DIR$/src/GameLoader.as" />
+        <option value="$PROJECT_DIR$/src/com/model/configData/ConfigDataManager.as" />
+        <option value="$PROJECT_DIR$/src/com/model/configData/ConfigDataGameWindow.as" />
         <option value="$PROJECT_DIR$/src/GameWindow.as" />
+        <option value="$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/bag/BagPanel.as" />
+        <option value="$PROJECT_DIR$/src/com/view/gameWindow/util/Calendar.as" />
       </list>
     </option>
   </component>
@@ -180,6 +236,9 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState />
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP">
     <include_path>
@@ -235,17 +294,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="legend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -278,9 +326,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="legend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="legend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="legend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -290,7 +367,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="last_opened_file_path" value="C:/Program Files/TortoiseSVN/bin/svn.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bin/index.html" />
     <property name="recentsLimit" value="5" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -343,13 +420,6 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\WorkSpace\legend\bin" />
-      <recent name="E:\WorkSpace\legend\src\com\view\gameWindow\tips\toolTip" />
-      <recent name="E:\WorkSpace\legend\src\com\view\gameWindow\panel\panels\wing" />
-      <recent name="E:\WorkSpace\ZTest\src\game\ui" />
-      <recent name="E:\WorkSpace\legend\src\com\model\configData\cfgdata" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\WorkSpace\legend\src\com\view\gameWindow\mainUi\subuis\bottombar\sysAlert\team\iconAlert" />
       <recent name="E:\WorkSpace\legend\src\com\view\gameWindow\mainUi\subuis\bottombar\sysAlert\team" />
@@ -362,6 +432,13 @@
       <recent name="com.view.gameWindow.panel.panels.wing" />
       <recent name="com.view.gameWindow.tips.rollTip.rollTips" />
       <recent name="com.model.configData.cfgdata" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\client\legend\bin" />
+      <recent name="E:\WorkSpace\legend\bin" />
+      <recent name="E:\WorkSpace\legend\src\com\view\gameWindow\tips\toolTip" />
+      <recent name="E:\WorkSpace\legend\src\com\view\gameWindow\panel\panels\wing" />
+      <recent name="E:\WorkSpace\ZTest\src\game\ui" />
     </key>
   </component>
   <component name="RestClientSettings">
@@ -880,6 +957,16 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -973,9 +1060,6 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration default="false" name="test" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="D:/website">
-      <method />
-    </configuration>
     <configuration default="false" name="index" type="FlashRunConfigurationType" factoryName="Flash App">
       <option name="BCName" value="GameLoader" />
       <option name="IOSSimulatorSdkPath" value="" />
@@ -1015,272 +1099,8 @@
       <ConfigurationWrapper RunnerId="FlexRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="index_t" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="GameLoader" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="flex_sdk_4.6" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="true" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="NewMir" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="$PROJECT_DIR$/bin/index_t.html" />
-      <option name="usbDebugPort" value="7936" />
-      <method />
-    </configuration>
-    <configuration default="false" name="index_87" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="GameLoader" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="flex_sdk_4.6" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="true" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="NewMir" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="$PROJECT_DIR$/bin/index_87.html" />
-      <option name="usbDebugPort" value="7936" />
-      <method />
-    </configuration>
-    <configuration default="false" name="index_109" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="GameLoader" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="flex_sdk_4.6" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="true" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
-          <option name="launcherType" value="Browser" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="NewMir" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="$PROJECT_DIR$/bin/index_109.html" />
-      <option name="usbDebugPort" value="7936" />
-      <RunnerSettings RunnerId="FlexDebugRunner" />
-      <RunnerSettings RunnerId="FlexRunner" />
-      <ConfigurationWrapper RunnerId="FlexDebugRunner" />
-      <ConfigurationWrapper RunnerId="FlexRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="index_163" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="GameLoader" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="flex_sdk_4.6" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="true" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="NewMir" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="$PROJECT_DIR$/bin/index_163.html" />
-      <option name="usbDebugPort" value="7936" />
-      <RunnerSettings RunnerId="FlexDebugRunner" />
-      <ConfigurationWrapper RunnerId="FlexDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="index_167" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="GameLoader" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="flex_sdk_4.6" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="true" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="NewMir" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="$PROJECT_DIR$/bin/index_167.html" />
-      <option name="usbDebugPort" value="7936" />
-      <RunnerSettings RunnerId="FlexDebugRunner" />
-      <ConfigurationWrapper RunnerId="FlexDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="index_108" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="GameLoader" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="flex_sdk_4.6" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="true" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="NewMir" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="$PROJECT_DIR$/bin/index_108.html" />
-      <option name="usbDebugPort" value="7936" />
-      <RunnerSettings RunnerId="FlexDebugRunner" />
-      <ConfigurationWrapper RunnerId="FlexDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="index_107" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="GameLoader" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="flex_sdk_4.6" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="true" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="NewMir" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://192.168.1.107/login.php?passport=w2&amp;district_id=4&amp;t=1427718307&amp;adult=1&amp;createtime=1427718307&amp;auth=8419ddf4d3b4394affdf559c318ae8d6" />
-      <option name="usbDebugPort" value="7936" />
-      <RunnerSettings RunnerId="FlexDebugRunner" />
-      <ConfigurationWrapper RunnerId="FlexDebugRunner" />
-      <method />
-    </configuration>
-    <list size="8">
+    <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Flash App.index" />
-      <item index="1" class="java.lang.String" itemvalue="Flash App.index_t" />
-      <item index="2" class="java.lang.String" itemvalue="Flash App.index_87" />
-      <item index="3" class="java.lang.String" itemvalue="Flash App.index_109" />
-      <item index="4" class="java.lang.String" itemvalue="Flash App.index_163" />
-      <item index="5" class="java.lang.String" itemvalue="Flash App.index_167" />
-      <item index="6" class="java.lang.String" itemvalue="Flash App.index_108" />
-      <item index="7" class="java.lang.String" itemvalue="Flash App.index_107" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -1430,14 +1250,23 @@
       <workItem from="1464176848424" duration="518000" />
       <workItem from="1464177408037" duration="28000" />
       <workItem from="1464177491907" duration="371000" />
-      <workItem from="1464178159250" duration="418000" />
-    </task>
-    <task id="LOCAL-00783" summary="是否绑定 ，">
-      <created>1427356716597</created>
-      <option name="number" value="00783" />
-      <option name="presentableId" value="LOCAL-00783" />
-      <option name="project" value="LOCAL" />
-      <updated>1427356716597</updated>
+      <workItem from="1464178159250" duration="1740000" />
+      <workItem from="1465612077018" duration="288000" />
+      <workItem from="1466078775636" duration="796000" />
+      <workItem from="1466079652435" duration="543000" />
+      <workItem from="1466080230311" duration="185000" />
+      <workItem from="1466163092746" duration="503000" />
+      <workItem from="1466174926144" duration="2283000" />
+      <workItem from="1466332109503" duration="289000" />
+      <workItem from="1466407055134" duration="1182000" />
+      <workItem from="1466409271576" duration="6035000" />
+      <workItem from="1466415638523" duration="3372000" />
+      <workItem from="1466483334079" duration="594000" />
+      <workItem from="1466485795143" duration="28000" />
+      <workItem from="1466743589907" duration="12019000" />
+      <workItem from="1467184413410" duration="5789000" />
+      <workItem from="1467192209737" duration="2400000" />
+      <workItem from="1467343751869" duration="4494000" />
     </task>
     <task id="LOCAL-00784" summary="限购数量 ，">
       <created>1427360394815</created>
@@ -1775,11 +1604,18 @@
       <option name="project" value="LOCAL" />
       <updated>1464178567889</updated>
     </task>
-    <option name="localTasksCounter" value="832" />
+    <task id="LOCAL-00832" summary="commit">
+      <created>1464178600235</created>
+      <option name="number" value="00832" />
+      <option name="presentableId" value="LOCAL-00832" />
+      <option name="project" value="LOCAL" />
+      <updated>1464178600235</updated>
+    </task>
+    <option name="localTasksCounter" value="833" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2709971000" />
+    <option name="totallyTimeSpent" value="2752093000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1795,21 +1631,24 @@
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19689119" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1960581" sideWeight="0.49779493" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24170125" sideWeight="0.5468578" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8590674" sideWeight="0.30916846" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18983403" sideWeight="0.3042999" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25181347" sideWeight="0.69083154" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21761657" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20829016" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21761657" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15104741" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17420067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.176957" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18983403" sideWeight="0.6957001" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1817,15 +1656,12 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13174275" sideWeight="0.7654584" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22153209" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2238342" sideWeight="0.5490405" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24663213" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20829016" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24663213" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22279793" sideWeight="0.6663113" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2580311" sideWeight="0.71268654" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22925311" sideWeight="0.6957001" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1927,7 +1763,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="2018" />
+      <option name="time" value="2058" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1948,294 +1784,365 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/onhook/states/common/OneCallState.as">
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/scene/map/SceneMapManager.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        <state relative-caret-position="-5634">
+          <caret line="69" column="24" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/model/business/fileService/constants/ResourcePathConstants.as">
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/scene/GameScene.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="66" column="31" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="31" />
+        <state relative-caret-position="760">
+          <caret line="47" column="50" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/util/UIEffectLoader.as">
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/util/HttpServiceUtil.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="178" column="13" selection-start-line="178" selection-start-column="13" selection-end-line="178" selection-end-column="13" />
+        <state relative-caret-position="461">
+          <caret line="56" column="69" selection-start-line="56" selection-start-column="69" selection-end-line="56" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/sys.bat" />
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/equipRecycle/EquipRecycleEffectHandler.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="379" column="17" selection-start-line="379" selection-start-column="17" selection-end-line="379" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/mainUi/subuis/onlineReward/OnlineReward.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="119" column="8" selection-start-line="119" selection-start-column="8" selection-end-line="119" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/trade/PanelTrade.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/bag/BagPanel.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="74" column="156" selection-start-line="74" selection-start-column="11" selection-end-line="74" selection-end-column="156" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/model/consts/StringConst.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2418" column="44" selection-start-line="2418" selection-start-column="28" selection-end-line="2418" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/trade/TradeViewHandler.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="228" column="48" selection-start-line="228" selection-start-column="48" selection-end-line="228" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/trade/TradeMouseHandler.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="169" column="36" selection-start-line="169" selection-start-column="36" selection-end-line="169" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/exchangeShop/ExchangeShopViewHandler.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="119" column="45" selection-start-line="119" selection-start-column="45" selection-end-line="119" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/model/configData/ConfigDataGameWindow.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="431" column="72" selection-start-line="431" selection-start-column="72" selection-end-line="431" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/model/configData/ConfigDataManager.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/exchangeShop/item/ExchangeShopItem.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="96" column="21" selection-start-line="96" selection-start-column="21" selection-end-line="96" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/roleProperty/cell/EquipCell.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="250" column="27" selection-start-line="250" selection-start-column="27" selection-end-line="250" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/flyEffect/FlyEffectMediator.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="11" column="72" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/forge/strengthen/StrengthenMouseEvent.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/flyEffect/subs/FlyFireDragonEnergyEffect.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="68" column="30" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/forge/strengthen/StrengthenAccruePolish.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="67" column="43" selection-start-line="67" selection-start-column="41" selection-end-line="67" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/forge/strengthen/TabStrengthen.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="267" column="43" selection-start-line="267" selection-start-column="43" selection-end-line="267" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/forge/strengthen/StrengthenHandle.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="1181" column="25" selection-start-line="1181" selection-start-column="25" selection-end-line="1181" selection-end-column="25" />
-          <folding>
-            <element signature="e#61#131#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/1ed2f5db/1f2d4949-0903-4b80-b1a4-95b7de5711d3/ztest..mem_chr_storage" />
-    <entry file="dbDummy://dbtable:/1ed2f5db/1f2d4949-0903-4b80-b1a4-95b7de5711d3/ztest..mem_chr_hero_chest" />
-    <entry file="dbDummy://dbtable:/1ed2f5db/1f2d4949-0903-4b80-b1a4-95b7de5711d3/ztest..log_chest_upgrade" />
-    <entry file="dbDummy://dbtable:/1ed2f5db/1f2d4949-0903-4b80-b1a4-95b7de5711d3/ztest..log_coin_change" />
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/PanelMediator.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="253" column="17" selection-start-line="253" selection-start-column="17" selection-end-line="253" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/1ed2f5db/1f2d4949-0903-4b80-b1a4-95b7de5711d3/ztest..mem_chr_chest" />
-    <entry file="dbDummy://dbtable:/1ed2f5db/1f2d4949-0903-4b80-b1a4-95b7de5711d3/ztest..mem_chr" />
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/roleProperty/RoleDataManager.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="166" column="23" selection-start-line="166" selection-start-column="23" selection-end-line="166" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/propIcon/icon/role/RolePositionIcon.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/bag/cell/BagCell.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="698" column="24" selection-start-line="698" selection-start-column="24" selection-end-line="698" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/1ed2f5db/1f2d4949-0903-4b80-b1a4-95b7de5711d3/ztest..v_testview" />
-    <entry file="file://$PROJECT_DIR$/src/com/model/dataManager/LoginDataManager.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="158" column="9" selection-start-line="158" selection-start-column="9" selection-end-line="158" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/scene/entity/model/imageItem/ImageItem.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="187" column="35" selection-start-line="187" selection-start-column="35" selection-end-line="187" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/scene/effect/model/EffectImageItem.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="48" column="37" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GameLoader.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/svnversion.list">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1f2d4949-0903-4b80-b1a4-95b7de5711d3/console.sql" />
-    <entry file="file://$PROJECT_DIR$/src/com/model/configData/cfgdata/LoginRewardCfgData.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/1ed2f5db/1f2d4949-0903-4b80-b1a4-95b7de5711d3/ztest..mem_chr_dungeon" />
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/scene/map/imageTile/MapImageTile.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1919">
-          <caret line="113" column="46" selection-start-line="113" selection-start-column="46" selection-end-line="113" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/scene/GameSceneManager.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/map/mappic/MapPicHandle.as">
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/util/ContextMenuUtil.as">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="779">
-          <caret line="79" column="55" selection-start-line="79" selection-start-column="55" selection-end-line="79" selection-end-column="55" />
+          <caret line="46" column="68" selection-start-line="46" selection-start-column="68" selection-end-line="46" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/map/mappic/MapBmpLoader.as">
+    <entry file="file://$PROJECT_DIR$/bin/index_108.html" />
+    <entry file="file://$PROJECT_DIR$/src/com/model/business/fileService/constants/ResourcePathConstants.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="32" column="44" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="44" />
+        <state relative-caret-position="1539">
+          <caret line="81" column="78" selection-start-line="81" selection-start-column="78" selection-end-line="81" selection-end-column="78" />
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/d5f1cc15/1f2d4949-0903-4b80-b1a4-95b7de5711d3/ztest.gmt_user" />
-    <entry file="file://$PROJECT_DIR$/bin/index_167.html">
+    <entry file="file://$PROJECT_DIR$/src/com/model/business/fileService/loaderManager/ByteArrayToBitmapDataManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2394">
+          <caret line="80" column="26" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/business/fileService/BytesBitmapDataLoader.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/business/fileService/BytesLoader.as">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/d5f1cc15/1f2d4949-0903-4b80-b1a4-95b7de5711d3/ztest.mem_chr" />
-    <entry file="file://$PROJECT_DIR$/bin/index.html">
+    <entry file="file://$PROJECT_DIR$/src/com/model/business/fileService/PreBytesLoader.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+        <state relative-caret-position="228">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/forge/ForgeDataManager.as">
+    <entry file="file://$PROJECT_DIR$/src/com/model/business/fileService/ThreadCall.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state relative-caret-position="627">
+          <caret line="137" column="9" selection-start-line="137" selection-start-column="9" selection-end-line="137" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/business/fileService/UrlBitmapDataLoader.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/business/fileService/loaderManager/ByteArrayLoaderManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="125" column="13" selection-start-line="125" selection-start-column="13" selection-end-line="125" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/gameWindow/rsr/RsrLoader.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panelbase/PanelBase.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="898">
+          <caret line="69" column="33" selection-start-line="69" selection-start-column="29" selection-end-line="69" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/business/fileService/BytesSwfLoader.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="898">
+          <caret line="75" column="45" selection-start-line="75" selection-start-column="45" selection-end-line="75" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/business/fileService/UrlSwfLoader.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="37" column="58" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/configData/constants/ConfigType.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="228" column="32" selection-start-line="228" selection-start-column="32" selection-end-line="228" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program/installPath/flex_sdk_4.6/frameworks/libs/player/21.0/playerglobal.swc!/library.swf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/mainUi/subuis/onlineReward/OnlineReward.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/configData/ConfigDataItem.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/configData/ConfigDataNewMir.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/scene/GameSceneManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="500" column="9" selection-start-line="500" selection-start-column="9" selection-end-line="500" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/newMir/INewMir.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewMir.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2033">
+          <caret line="129" column="51" selection-start-line="129" selection-start-column="41" selection-end-line="129" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/dataManager/LoginDataManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="168" column="21" selection-start-line="168" selection-start-column="21" selection-end-line="168" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/newMir/NewMirMediator.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="59" column="38" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/newMir/GameWindowLoader.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/business/flashVars/FlashVarsManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="96" column="38" selection-start-line="96" selection-start-column="28" selection-end-line="96" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/configData/ConfigDataManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="97" column="29" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/configData/ConfigDataGameWindow.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5415">
+          <caret line="286" column="41" selection-start-line="286" selection-start-column="41" selection-end-line="286" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GameWindow.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="258" column="36" selection-start-line="258" selection-start-column="36" selection-end-line="258" selection-end-column="36" />
-          <folding>
-            <marker date="1464178554632" expanded="true" signature="8:14881" ph="{...}" />
-          </folding>
+        <state relative-caret-position="855">
+          <caret line="132" column="36" selection-start-line="132" selection-start-column="36" selection-end-line="132" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameLoader.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="112" column="24" selection-start-line="112" selection-start-column="24" selection-end-line="112" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/util/HtmlUtils.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/bagPanel.swc!/library.swf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/common/ResManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1440">
+          <caret line="67" column="24" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/bag/BagData.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-984">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/dungeon/TextFormatManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/util/UIEffectLoader.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1326">
+          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/bag/DrugCDData.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/util/cooldown/CoolDownEffect.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2318">
+          <caret line="132" column="33" selection-start-line="132" selection-start-column="16" selection-end-line="132" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/bag/cell/BagCellDragHandle.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2584">
+          <caret line="173" column="0" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/bag/BagDataManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="677" column="13" selection-start-line="677" selection-start-column="13" selection-end-line="677" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/bag/cell/BagCell.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="584" column="28" selection-start-line="584" selection-start-column="28" selection-end-line="584" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/bag/BagPanel.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="296" column="0" selection-start-line="296" selection-start-column="0" selection-end-line="296" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/welfare/PanelWelfare.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="88" column="26" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/welfare/WelfareViewHandle.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="39" column="78" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/welfare/sign/TabSign.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/panel/panels/welfare/sign/SignViewHandle.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="209" column="40" selection-start-line="209" selection-start-column="40" selection-end-line="209" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/gameWindow/util/Calendar.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2291,12 +2198,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>NewMir</last-edited>
+          <last-edited>GameLoader|NewMir</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
