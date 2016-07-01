@@ -21,7 +21,7 @@
         <packaging-android />
         <packaging-ios />
       </configuration>
-      <configuration name="SelectRole" pure-as="true" main-class="SelectRole" output-file="SelectRole.swf" output-folder="$MODULE_DIR$/bin" use-html-wrapper="true" wrapper-template-path="$MODULE_DIR$/html-template" skip-build="true">
+      <configuration name="SelectRole" pure-as="true" main-class="SelectRole" output-file="SelectRole.swf" output-folder="$MODULE_DIR$/bin" use-html-wrapper="true" wrapper-template-path="$MODULE_DIR$/html-template">
         <dependencies target-player="21.0">
           <entries>
             <entry library-id="360b07a7-a701-418c-be6b-4388dbf9ef8e">
@@ -59,7 +59,7 @@
         <packaging-android />
         <packaging-ios />
       </configuration>
-      <configuration name="CreateRole" pure-as="true" main-class="CreateRole" output-file="CreateRole.swf" output-folder="$MODULE_DIR$/bin" use-html-wrapper="true" wrapper-template-path="$MODULE_DIR$/html-template" skip-build="true">
+      <configuration name="CreateRole" pure-as="true" main-class="CreateRole" output-file="CreateRole.swf" output-folder="$MODULE_DIR$/bin" use-html-wrapper="true" wrapper-template-path="$MODULE_DIR$/html-template">
         <dependencies target-player="21.0">
           <entries>
             <entry library-id="cad90bbc-8711-4a95-9fc1-e3ce10e1f0fa">
@@ -163,16 +163,5 @@
       </library>
     </orderEntry>
     <orderEntry type="library" exported="" name="samples" level="project" />
-    <orderEntry type="module-library" exported="">
-      <library name="PHP">
-        <CLASSES>
-          <root url="file://D:/installPath/website/php-5.6.3" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://D:/installPath/website/php-5.6.3" />
-        </SOURCES>
-      </library>
-    </orderEntry>
   </component>
 </module>
