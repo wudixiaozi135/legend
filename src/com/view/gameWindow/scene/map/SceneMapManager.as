@@ -9,7 +9,6 @@ package com.view.gameWindow.scene.map
 	import com.view.gameWindow.mainUi.subuis.musicSet.MusicConst;
 	import com.view.gameWindow.mainUi.subuis.musicSet.MusicSettingManager;
 	import com.view.gameWindow.scene.map.imageTile.MapImageTile;
-	import com.view.gameWindow.scene.map.imageTile.MapImageTileEx;
 	import com.view.gameWindow.scene.map.path.MapPathManager;
 	import com.view.gameWindow.scene.map.utils.MapTileUtils;
 	import com.view.newMir.sound.SoundManager;
